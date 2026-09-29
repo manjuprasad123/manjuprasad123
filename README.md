@@ -1,19 +1,53 @@
-## Hi there 👋
-# 💫 About Me:
-Computer science engineering student 
+# Hey there 👋, I'm Manju Prasad!
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p_r_a_s_a_d.17) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manjuprasad123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manjuprasad123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuprasad123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Computer Science Engineering Student | 🧠 Logical Thinker | ⚡ Problem Solver
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manjuprasad123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+| **🎓 Education**<br>Computer Science Engineering             | **📍 Current Focus**<br>Web Development<br>Programming                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| **🧠 Strengths**<br>Logical Thinking<br>C & Java Programming | **💡 Interests**<br>Full-Stack Development<br>Building Practical Projects |
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+
+**C Programming · Java · Object-Oriented Programming**
+
+### Web Technologies
+
+[![Web Technologies](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs)](https://skillicons.dev)
+
+**HTML · CSS · JavaScript · React · Node.js**
+
+### Tools & Platforms
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+**Git · GitHub · VS Code**
+
+---
+
+## 📫 Let's Connect
+
+### 🌐 Social Presence
+
+| [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/manjuprasad123) |
+| :---------------------------: | :-----------------------------------------: |
+|        💼 **LinkedIn**        |                🐙 **GitHub**                |
+
+### 📧 Reach Out!
+
+*Open to learning, collaborations, internships, and building interesting projects!*
+
+---
+
+### ⚡ Daily Motivation
+
+> **"Think logically, solve problems, and keep building."**
