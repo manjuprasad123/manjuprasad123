@@ -37,9 +37,16 @@
 ---
 ### 📊 GitHub Stats
 
-| Most Used Languages | Streak Stats |
-| :---: | :---: |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=radical) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=manjuprasad123&theme=radical) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manjuprasad123&show_icons=true&theme=tokyonight&hide_border=true" alt="Manju's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjuprasad123&theme=tokyonight&hide_border=true" alt="Manju's GitHub Streak" width="97%" />
+</p>
 
 ---
 
