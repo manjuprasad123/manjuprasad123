@@ -35,15 +35,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
 ### 📊 GitHub Stats
 
-[![Manju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjuprasad123&show_icons=true&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
+[![Manju's GitHub Stats](https://github-stats-extended.vercel.app/api?username=manjuprasad123&show_icons=true&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
 
 ### 🔥 GitHub Streak
 
 [![Manju's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjuprasad123&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
+
 ---
 
 ### 🌐 Let's Connect & Reach Out
