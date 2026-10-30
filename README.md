@@ -37,13 +37,16 @@
 ---
 ### 📊 GitHub Stats
 
-[![Manju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjuprasad123&show_icons=true&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=manjuprasad123&show_icons=true&theme=radical&hide_border=true" alt="Manju's GitHub Stats" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manjuprasad123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
 
 ### 🔥 GitHub Streak
 
-[![Manju's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjuprasad123&theme=radical&hide_border=true)](https://github.com/manjuprasad123)
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjuprasad123&theme=radical&hide_border=true" alt="Manju's GitHub Streak" />
+</div>
 ---
 
 ### 🌐 Let's Connect & Reach Out
